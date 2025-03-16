@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|c:\\users\\kagan\\desktop\\github\\acunmedyaodevler\\loop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|solutionrelative:odevloop \u0026 condition assignment - pzr\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|c:\\users\\kagan\\desktop\\github\\acunmedyaodevler\\loop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|solutionrelative:odevloop \u0026 condition assignment - pzr\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|c:\\users\\kagan\\desktop\\github\\acunmedyaodevler\\loop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\odevloop \u0026 condition assignment - pzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A3BC2-5ADE-400A-9E11-125E9B6A1F6B}|ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR.csproj|solutionrelative:odevloop \u0026 condition assignment - pzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Araba.cs",
+              "RelativeToolTip": "ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:31:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Calisan.cs",
+              "RelativeDocumentMoniker": "ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Calisan.cs",
+              "ToolTip": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Calisan.cs",
+              "RelativeToolTip": "ODEVLoop \u0026 Condition Assignment - PZR\\Classes\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:31:31.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Program.cs",
+              "RelativeDocumentMoniker": "ODEVLoop \u0026 Condition Assignment - PZR\\Program.cs",
+              "ToolTip": "C:\\Users\\kagan\\Desktop\\GitHub\\AcunmedyaOdevler\\Loop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\ODEVLoop \u0026 Condition Assignment - PZR\\Program.cs",
+              "RelativeToolTip": "ODEVLoop \u0026 Condition Assignment - PZR\\Program.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAqwOYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:08:22.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ODEVLoop & Condition Assignment - PZR/1.0.0": {
+        "runtime": {
+          "ODEVLoop & Condition Assignment - PZR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ODEVLoop & Condition Assignment - PZR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
