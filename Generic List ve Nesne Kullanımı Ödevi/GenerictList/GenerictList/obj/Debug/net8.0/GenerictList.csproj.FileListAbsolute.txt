@@ -1,0 +1,15 @@
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\bin\Debug\net8.0\GenerictList.exe
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\bin\Debug\net8.0\GenerictList.deps.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\bin\Debug\net8.0\GenerictList.runtimeconfig.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\bin\Debug\net8.0\GenerictList.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\bin\Debug\net8.0\GenerictList.pdb
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.AssemblyInfoInputs.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.AssemblyInfo.cs
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.csproj.CoreCompileInputs.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.sourcelink.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\refint\GenerictList.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.pdb
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\GenerictList.genruntimeconfig.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Generic List ve Nesne Kullanımı Ödevi\GenerictList\GenerictList\obj\Debug\net8.0\ref\GenerictList.dll
