@@ -1,0 +1,17 @@
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.exe
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.deps.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.runtimeconfig.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.pdb
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.Form1.resources
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.csproj.GenerateResource.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.AssemblyInfoInputs.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.AssemblyInfo.cs
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.sourcelink.json
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\refint\WindowsFormArabaBilgiFormu.dll
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.pdb
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\WindowsFormArabaBilgiFormu.genruntimeconfig.cache
+C:\Users\kagan\Desktop\GitHub\AcunmedyaOdevler\Windows Form ile Araba Bilgi Formu\WindowsFormArabaBilgiFormu\WindowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\ref\WindowsFormArabaBilgiFormu.dll
